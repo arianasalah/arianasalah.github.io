@@ -102,27 +102,7 @@ function button_hover_colors(){
 
 }
 
-function button_click() {
-  // $('#github').click(function(){
-  //   window.location.href= "https://github.com/garymlin";
-  // });
 
-  // $('#linkedin').click(function(){
-  //   window.location.href= "https://www.linkedin.com/in/garymlin";
-  // });
-
-  // $('#resume').click(function(){
-  //   window.location.href= "resume.pdf"
-  // });
-
-  // $('#facebook').click(function(){
-  //   window.location.href= "https://www.facebook.com/gary.lin.754";
-  // });
-
-  // $('#instagram').click(function(){
-  //   window.location.href= "http://instagram.com/garymlin";
-  // });
-}
 
 function kritikal_stats() {
   $('#project-content').click(function(){
